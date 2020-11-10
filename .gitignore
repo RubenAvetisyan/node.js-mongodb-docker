@@ -1,0 +1,7 @@
+.vscode
+node_modules
+/log/
+*.log
+.DS_Store
+# must be active in .gitignor for production
+#keys.dev.js
